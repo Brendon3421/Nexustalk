@@ -85,7 +85,7 @@ const handleLogin = (event) => {
     chat.style.display = "flex"
 
 
-    websocket = new WebSocket("ws://localhost:3000");
+    websocket = new WebSocket("wss://nexustalk-19r3.onrender.com");
     
     websocket.onmessage = processMessage
 }
