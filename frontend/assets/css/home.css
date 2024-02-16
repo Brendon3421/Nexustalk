@@ -329,3 +329,7 @@
   .section__footer h4 {
       color: var(--secondary-color);
   }
+.beta{
+    color: var(--text-light);
+    font-size: 0.8rem;
+  }
