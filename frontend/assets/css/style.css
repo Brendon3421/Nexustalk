@@ -185,3 +185,7 @@ nav{
     font-weight: 700;
     color: cadetblue;
 }
+.beta{
+    color: var(--text-light);
+    font-size: 0.8rem;
+  }
