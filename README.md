@@ -1,2 +1,1 @@
-"# Nexustalk" 
-Sistema de chat em tempo real com Webssocket
+![Imagem-real-do-projeto][ambiente-api-rest.png]
