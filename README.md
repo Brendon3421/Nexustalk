@@ -1,2 +1,2 @@
 
-![imagem](Post-nexus-talk)
+![imagem](ambiente-api-rest.png)
